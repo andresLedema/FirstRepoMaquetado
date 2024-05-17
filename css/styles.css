@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(78, 199, 138);
+}
+.main_container{
+    align-content: center;
+    background-color: rgb(246, 249, 252);
+    height: 25rem;
+    width: 35%;
+}
+.names{
+    display: flex;
+}
+.main_names{
+    display: flex;
+}
+.query_Type{
+    display: flex;
+}

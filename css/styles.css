@@ -2,17 +2,43 @@ body{
     background-color: rgb(78, 199, 138);
 }
 .main_container{
-    align-content: center;
     background-color: rgb(246, 249, 252);
-    height: 25rem;
-    width: 35%;
-}
-.names{
-    display: flex;
+    border-radius: 8px;
+    height: 70vh;
+    margin: 10px;
+    padding: 1rem;
+    width: 80vh;
 }
 .main_names{
     display: flex;
 }
+.first_name{
+}
+.fname{
+    width: 37vb;
+}
+.last_name{
+    margin-left: 1vb;
+}
+.lname{
+    width: 37vb;
+}
 .query_Type{
     display: flex;
+}
+label{
+    font-size: 15px;
+}
+.email_Address{
+    width: 95%;
+}
+.message{
+    height: 80px;
+    width: 95%;
+}
+.submit{
+    background-color: rgb(56, 160, 108);
+    height: 25px;
+    width: 95%;
+
 }

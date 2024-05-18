@@ -23,18 +23,44 @@ body{
 .lname{
     width: 37vb;
 }
-.query_Type{
-    display: flex;
-}
-label{
-    font-size: 15px;
+.email_info{
+    margin-top: 3vh;
 }
 .email_Address{
     width: 95%;
 }
+.checkbox_option{
+    margin-top: 4vh;
+}
+.query_Type{
+    display: flex;
+}
+.general_enq{
+    border: solid;
+    border-radius: 5px;
+    width: 36vb;
+}
+.support_req{
+    border: solid;
+    border-radius: 5px;
+    margin-left: 3vb;
+    width: 36vb;
+}
+.message_box{
+    margin-top: 3vh;
+}
 .message{
     height: 80px;
     width: 95%;
+}
+.iagree{
+    margin-top: 3vh;
+}
+label{
+    font-size: 15px;
+}
+.submit_sub{
+    margin-top: 4vh;
 }
 .submit{
     background-color: rgb(56, 160, 108);

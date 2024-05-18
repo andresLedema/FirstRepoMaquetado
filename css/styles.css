@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(78, 199, 138);
+    background-color: rgb(160, 238, 199);
 }
 .main_container{
     background-color: rgb(246, 249, 252);
@@ -36,12 +36,12 @@ body{
     display: flex;
 }
 .general_enq{
-    border: solid;
+    border: 1px solid;
     border-radius: 5px;
     width: 36vb;
 }
 .support_req{
-    border: solid;
+    border: 1px solid;
     border-radius: 5px;
     margin-left: 3vb;
     width: 36vb;

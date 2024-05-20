@@ -12,8 +12,6 @@ body{
 .main_names{
     display: flex;
 }
-.first_name{
-}
 .fname{
     width: 37vb;
 }
@@ -43,7 +41,7 @@ body{
 .support_req{
     border: 1px solid;
     border-radius: 5px;
-    margin-left: 3vb;
+    margin-left: 4vb;
     width: 36vb;
 }
 .message_box{
@@ -64,6 +62,7 @@ label{
 }
 .submit{
     background-color: rgb(56, 160, 108);
+    color: aliceblue;
     height: 25px;
     width: 95%;
 
